@@ -3,16 +3,15 @@
     <div class="menu-bg-wrap">
       <div class="site-navigation">
         <a href="index.php" class="logo m-0 float-start">
-          <img src="assets/images/logo.jpg" alt="Logo" width="30" height="30" class="d-inline-block align-text-top fs-4 text-dark">
-
-          Property</a>
+          <img src="assets/images/logo.jpg" alt="Logo" width="100" height="100" class="d-inline-block align-text-top fs-4 text-dark">
+        </a>
 
         <ul
           class="js-clone-nav d-none d-lg-inline-block text-start site-menu float-end">
           <li class="active"><a href="index.php">Home</a></li>
           <li class="has-children">
             <a href="properties.php">Venues</a>
-            <ul class="dropdown">
+            <!-- <ul class="dropdown">
               <li><a href="#">Buy Property</a></li>
               <li><a href="#">Sell Property</a></li>
               <li class="has-children">
@@ -23,7 +22,7 @@
                   <li><a href="#">Sub Menu Three</a></li>
                 </ul>
               </li>
-            </ul>
+            </ul> -->
           </li>
           <li><a href="services.php">Services</a></li>
           <li><a href="about.php">Gallery</a></li>

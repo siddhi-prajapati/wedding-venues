@@ -9648,7 +9648,7 @@ textarea {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%); }
 
-.menu-bg-wrap {
+/* .menu-bg-wrap {
   background-color: var(--em-main-color);
   padding: 20px 30px;
   position: relative;
@@ -9656,7 +9656,62 @@ textarea {
   width: 100%;
   border-radius: 7px;
   -webkit-box-shadow: 0 15px 30px -15px rgba(0, 0, 0, 0.1);
-  box-shadow: 0 15px 30px -15px rgba(0, 0, 0, 0.1); }
+  box-shadow: 0 15px 30px -15px rgba(0, 0, 0, 0.1); } */
+
+  /* Wedding-style modern navbar - bold, larger, darker */
+.menu-bg-wrap {
+  background-color: transparent;
+  padding: 25px 30px;
+  position: relative;
+  float: left;
+  width: 100%;
+  border-radius: 7px;
+  box-shadow: none;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.menu-bg-wrap.scrolled {
+  background-color: #ffffff;
+  box-shadow: 0 15px 30px -15px rgba(0, 0, 0, 0.1);
+}
+
+/* Navbar items */
+.menu-bg-wrap .navbar-nav {
+  gap: 30px;
+}
+
+.menu-bg-wrap .navbar-nav li a {
+  text-decoration: none;
+  color: #f0f0f0 !important;  /* Soft white */
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.3px;
+  transition: color 0.3s ease;
+}
+
+/* On scroll: darker color */
+.menu-bg-wrap.scrolled .navbar-nav li a {
+  color: #222 !important;
+}
+
+/* Hover effect */
+.menu-bg-wrap .navbar-nav li a:hover {
+  color: #e91e63 !important;
+}
+
+/* Brand/logo styling */
+.menu-bg-wrap .navbar-brand {
+  color: #f0f0f0 !important;
+  font-weight: 700;
+  font-size: 26px;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.menu-bg-wrap.scrolled .navbar-brand {
+  color: #222 !important;
+}
+
 
 .hero {
   position: relative;
@@ -10371,3 +10426,6 @@ nav[aria-label="breadcrumb"] li:before {
       .site-footer .social li a:hover {
         background: #00204a;
         color: #fff; }
+
+
+        
