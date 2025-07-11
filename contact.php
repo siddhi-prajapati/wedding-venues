@@ -11,7 +11,7 @@
 
 <div
   class="hero page-inner overlay"
-  style="background-image: url('assets/images/hero_bg_1.jpg')">
+  style="background-image: url('assets/images/ring.jpg')">
   <div class="container">
     <div class="row justify-content-center align-items-center">
       <div class="col-lg-9 text-center mt-5">

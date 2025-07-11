@@ -62,13 +62,10 @@
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 Spacious Banquet Halls</span>
+                     
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 Beautiful Outdoor Gardens</span>
-                    </span>
+                      
                   </div>
 
                   <a
@@ -91,14 +88,9 @@
                   <span class="city d-block mb-3">Ahemedabad, INDIA, INDIA</span>
 
                   <div class="specs d-flex mb-4">
-                    <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 Spacious Banquet Halls</span>
-                    </span>
+                 
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 Beautiful Outdoor Gardens</span>
-                    </span>
+                      
                   </div>
 
                   <a
@@ -122,13 +114,10 @@
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 Spacious Banquet Halls</span>
+                     
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 Beautiful Outdoor Gardens</span>
-                    </span>
+                      
                   </div>
 
                   <a
@@ -152,13 +141,10 @@
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 Spacious Banquet Halls</span>
+                     
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 Beautiful Outdoor Gardens</span>
-                    </span>
+                      
                   </div>
 
                   <a
@@ -182,13 +168,10 @@
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 Spacious Banquet Halls</span>
+                     
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 Beautiful Outdoor Gardens</span>
-                    </span>
+                      
                   </div>
 
                   <a
@@ -212,13 +195,10 @@
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 Spacious Banquet Halls</span>
+                     
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 Beautiful Outdoor Gardens</span>
-                    </span>
+                      
                   </div>
 
                   <a
@@ -242,13 +222,10 @@
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 Spacious Banquet Halls</span>
+                     
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 Beautiful Outdoor Gardens</span>
-                    </span>
+                      
                   </div>
 
                   <a
@@ -272,13 +249,10 @@
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 Spacious Banquet Halls</span>
+                     
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 Beautiful Outdoor Gardens</span>
-                    </span>
+                      
                   </div>
 
                   <a
@@ -302,13 +276,10 @@
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 Spacious Banquet Halls</span>
+                     
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 Beautiful Outdoor Gardens</span>
-                    </span>
+                      
                   </div>
 
                   <a
@@ -359,13 +330,10 @@
 
               <div class="specs d-flex mb-4">
                 <span class="d-block d-flex align-items-center me-3">
-                  <span class="icon-bed me-2"></span>
-                  <span class="caption">2 Spacious Banquet Halls</span>
+                  
                 </span>
                 <span class="d-block d-flex align-items-center">
-                  <span class="icon-bath me-2"></span>
-                  <span class="caption">2 Beautiful Outdoor Gardens</span>
-                </span>
+                  
               </div>
 
               <a
@@ -390,13 +358,10 @@
 
               <div class="specs d-flex mb-4">
                 <span class="d-block d-flex align-items-center me-3">
-                  <span class="icon-bed me-2"></span>
-                  <span class="caption">2 Spacious Banquet Halls</span>
+                  
                 </span>
                 <span class="d-block d-flex align-items-center">
-                  <span class="icon-bath me-2"></span>
-                  <span class="caption">2 Beautiful Outdoor Gardens</span>
-                </span>
+                  
               </div>
 
               <a
@@ -421,13 +386,10 @@
 
               <div class="specs d-flex mb-4">
                 <span class="d-block d-flex align-items-center me-3">
-                  <span class="icon-bed me-2"></span>
-                  <span class="caption">2 Spacious Banquet Halls</span>
+                  
                 </span>
                 <span class="d-block d-flex align-items-center">
-                  <span class="icon-bath me-2"></span>
-                  <span class="caption">2 Beautiful Outdoor Gardens</span>
-                </span>
+                  
               </div>
 
               <a
@@ -453,13 +415,10 @@
 
               <div class="specs d-flex mb-4">
                 <span class="d-block d-flex align-items-center me-3">
-                  <span class="icon-bed me-2"></span>
-                  <span class="caption">2 Spacious Banquet Halls</span>
+                  
                 </span>
                 <span class="d-block d-flex align-items-center">
-                  <span class="icon-bath me-2"></span>
-                  <span class="caption">2 Beautiful Outdoor Gardens</span>
-                </span>
+                  
               </div>
 
               <a
@@ -484,13 +443,10 @@
 
               <div class="specs d-flex mb-4">
                 <span class="d-block d-flex align-items-center me-3">
-                  <span class="icon-bed me-2"></span>
-                  <span class="caption">2 Spacious Banquet Halls</span>
+                  
                 </span>
                 <span class="d-block d-flex align-items-center">
-                  <span class="icon-bath me-2"></span>
-                  <span class="caption">2 Beautiful Outdoor Gardens</span>
-                </span>
+                  
               </div>
 
               <a
@@ -515,13 +471,10 @@
 
               <div class="specs d-flex mb-4">
                 <span class="d-block d-flex align-items-center me-3">
-                  <span class="icon-bed me-2"></span>
-                  <span class="caption">2 Spacious Banquet Halls</span>
+                  
                 </span>
                 <span class="d-block d-flex align-items-center">
-                  <span class="icon-bath me-2"></span>
-                  <span class="caption">2 Beautiful Outdoor Gardens</span>
-                </span>
+                  
               </div>
 
               <a
@@ -547,13 +500,10 @@
 
               <div class="specs d-flex mb-4">
                 <span class="d-block d-flex align-items-center me-3">
-                  <span class="icon-bed me-2"></span>
-                  <span class="caption">2 Spacious Banquet Halls</span>
+                  
                 </span>
                 <span class="d-block d-flex align-items-center">
-                  <span class="icon-bath me-2"></span>
-                  <span class="caption">2 Beautiful Outdoor Gardens</span>
-                </span>
+                  
               </div>
 
               <a
@@ -578,13 +528,10 @@
 
               <div class="specs d-flex mb-4">
                 <span class="d-block d-flex align-items-center me-3">
-                  <span class="icon-bed me-2"></span>
-                  <span class="caption">2 Spacious Banquet Halls</span>
+                  
                 </span>
                 <span class="d-block d-flex align-items-center">
-                  <span class="icon-bath me-2"></span>
-                  <span class="caption">2 Beautiful Outdoor Gardens</span>
-                </span>
+                  
               </div>
 
               <a
@@ -609,13 +556,10 @@
 
               <div class="specs d-flex mb-4">
                 <span class="d-block d-flex align-items-center me-3">
-                  <span class="icon-bed me-2"></span>
-                  <span class="caption">2 Spacious Banquet Halls</span>
+                  
                 </span>
                 <span class="d-block d-flex align-items-center">
-                  <span class="icon-bath me-2"></span>
-                  <span class="caption">2 Beautiful Outdoor Gardens</span>
-                </span>
+                  
               </div>
 
               <a

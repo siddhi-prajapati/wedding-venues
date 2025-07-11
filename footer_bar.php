@@ -4,12 +4,12 @@
       <div class="col-lg-4">
         <div class="widget">
           <h3>Contact</h3>
-          <address>Sector-7, Gandhinagar, India</address>
+          <address>Nana Chiloda , Ahmedabad, India</address>
           <ul class="list-unstyled links">
-            <li><a href="tel://11234567890">+91 6547846724</a></li>
+            <li><a href="tel://11234567890">+91 9664901107</a></li>
             <li><a href="tel://11234567890">+91 6547846725</a></li>
             <li>
-              <a href="mailto:aakms@gmail.com">aakms@gmail.com</a>
+              <a href="mailto:dasrath.0704@gmail.com">dasrath.0704@gmail.com</a>
             </li>
           </ul>
         </div>
@@ -70,21 +70,13 @@
 
     <div class="row mt-5">
       <div class="col-12 text-center">
-        <!-- 
-              **==========
-              NOTE: 
-              Please don't remove this copyright link unless you buy the license here https://untree.co/license/  
-              **==========
-            -->
-
         <p>
           Copyright &copy;
           <script>
             document.write(new Date().getFullYear());
           </script>
           . All Rights Reserved.
-          <a href="https://untree.co">Estate Mall Agency.co</a>
-          <!-- License information: https://untree.co/license/ -->
+          <a href="#">Wedding - Venues Agency.co</a>
         </p>
       </div>
     </div>

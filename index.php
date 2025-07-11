@@ -77,17 +77,17 @@
               <div class="property-content">
                 <div class="price mb-2"><span>1,291,000 Rs/-</span></div>
                 <div>
-                  <span class="d-block mb-2 text-black-50">Estate Mall Agency</span>
+                  <span class="d-block mb-2 text-black-50">Event Organization</span>
                   <span class="city d-block mb-3">Ahmedabad, INDIA</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <!-- <span class="icon-bed me-2"></span>
+                      <span class="caption">2 beds</span> -->
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <!-- <span class="icon-bath me-2"></span>
+                      <span class="caption">2 baths</span> -->
                     </span>
                   </div>
 
@@ -107,17 +107,17 @@
               <div class="property-content">
                 <div class="price mb-2"><span>1,291,000 Rs/-</span></div>
                 <div>
-                  <span class="d-block mb-2 text-black-50">Estate Mall Agency</span>
+                  <span class="d-block mb-2 text-black-50">Event Organization</span>
                   <span class="city d-block mb-3">Ahemedabad, INDIA</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <!-- <span class="icon-bed me-2"></span>
+                      <span class="caption">2 beds</span> -->
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <!-- <span class="icon-bath me-2"></span>
+                      <span class="caption">2 baths</span> -->
                     </span>
                   </div>
 
@@ -137,11 +137,11 @@
               <div class="property-content">
                 <div class="price mb-2"><span>1,291,000 Rs/-</span></div>
                 <div>
-                  <span class="d-block mb-2 text-black-50">Estate Mall Agency</span>
+                  <span class="d-block mb-2 text-black-50">Event Organization</span>
                   <span class="city d-block mb-3">Ahemedabad, INDIA</span>
 
                   <div class="specs d-flex mb-4 ">
-                    <span class="d-block d-flex align-items-center me-3">
+                    <!-- <span class="d-block d-flex align-items-center me-3">
                       <span class="caption ">Capacity :555</span>
                     </span>
                     <span class="d-block d-flex align-items-center">
@@ -149,7 +149,7 @@
                     </span>
                     <span class="d-block d-flex align-items-center">
                       <span class="caption">ACCOMMODATION: Yes</span>
-                    </span>
+                    </span> -->
                   </div>
 
                   <a
@@ -168,17 +168,17 @@
               <div class="property-content">
                 <div class="price mb-2"><span>1,291,000 Rs/-</span></div>
                 <div>
-                  <span class="d-block mb-2 text-black-50">Estate Mall Agency</span>
+                  <span class="d-block mb-2 text-black-50">Event Organization</span>
                   <span class="city d-block mb-3">Ahemedabad, INDIA</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <!-- <span class="icon-bed me-2"></span>
+                      <span class="caption">2 beds</span> -->
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <!-- <span class="icon-bath me-2"></span>
+                      <span class="caption">2 baths</span> -->
                     </span>
                   </div>
 
@@ -198,17 +198,17 @@
               <div class="property-content">
                 <div class="price mb-2"><span>1,291,000 Rs/-</span></div>
                 <div>
-                  <span class="d-block mb-2 text-black-50">Estate Mall Agency</span>
+                  <span class="d-block mb-2 text-black-50">Event Organization</span>
                   <span class="city d-block mb-3">Ahemedabad, INDIA</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <!-- <span class="icon-bed me-2"></span>
+                      <span class="caption">2 beds</span> -->
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <!-- <span class="icon-bath me-2"></span>
+                      <span class="caption">2 baths</span> -->
                     </span>
                   </div>
 
@@ -228,17 +228,17 @@
               <div class="property-content">
                 <div class="price mb-2"><span>1,291,000 Rs/-</span></div>
                 <div>
-                  <span class="d-block mb-2 text-black-50">Estate Mall Agency</span>
+                  <span class="d-block mb-2 text-black-50">Event Organization</span>
                   <span class="city d-block mb-3">Ahemedabad, INDIA</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <!-- <span class="icon-bed me-2"></span>
+                      <span class="caption">2 beds</span> -->
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <!-- <span class="icon-bath me-2"></span>
+                      <span class="caption">2 baths</span> -->
                     </span>
                   </div>
 
@@ -258,17 +258,17 @@
               <div class="property-content">
                 <div class="price mb-2"><span>1,291,000 Rs/-</span></div>
                 <div>
-                  <span class="d-block mb-2 text-black-50">Estate Mall Agency</span>
+                  <span class="d-block mb-2 text-black-50">Event Organization</span>
                   <span class="city d-block mb-3">Ahemedabad, INDIA</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <!-- <span class="icon-bed me-2"></span>
+                      <span class="caption">2 beds</span> -->
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <!-- <span class="icon-bath me-2"></span>
+                      <span class="caption">2 baths</span> -->
                     </span>
                   </div>
 
@@ -288,17 +288,17 @@
               <div class="property-content">
                 <div class="price mb-2"><span>1,291,000 Rs/-</span></div>
                 <div>
-                  <span class="d-block mb-2 text-black-50">Estate Mall Agency</span>
+                  <span class="d-block mb-2 text-black-50">Event Organization</span>
                   <span class="city d-block mb-3">Ahemedabad, INDIA</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <!-- <span class="icon-bed me-2"></span>
+                      <span class="caption">2 beds</span> -->
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <!-- <span class="icon-bath me-2"></span>
+                      <span class="caption">2 baths</span> -->
                     </span>
                   </div>
 
@@ -318,17 +318,17 @@
               <div class="property-content">
                 <div class="price mb-2"><span>1,291,000 Rs/-</span></div>
                 <div>
-                  <span class="d-block mb-2 text-black-50">Estate Mall Agency</span>
+                  <span class="d-block mb-2 text-black-50">Event Organization</span>
                   <span class="city d-block mb-3">Ahemedabad, INDIA</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
-                      <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <!-- <span class="icon-bed me-2"></span>
+                      <span class="caption">2 beds</span> -->
                     </span>
                     <span class="d-block d-flex align-items-center">
-                      <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <!-- <span class="icon-bath me-2"></span>
+                      <span class="caption">2 baths</span> -->
                     </span>
                   </div>
 

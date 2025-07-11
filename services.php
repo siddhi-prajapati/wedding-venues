@@ -12,7 +12,7 @@
 
 <div
   class="hero page-inner overlay"
-  style="background-image: url('assets/images/hero_bg_1.jpg')">
+  style="background-image: url('assets/images/services-bg.jpg')">
   <div class="container">
     <div class="row justify-content-center align-items-center">
       <div class="col-lg-9 text-center mt-5">
@@ -42,12 +42,9 @@
       <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">
         <div class="box-feature mb-4">
           <span class="flaticon-house mb-4 d-block"></span>
-          <h3 class="text-black mb-3 font-weight-bold">
-            Quality Properties
-          </h3>
+          <h3 class="text-black mb-3 font-weight-bold">Outdoor Venues</h3>
           <p class="text-black-50">
-            Far far away, behind the word mountains, far from the countries
-            Vokalia and Consonantia, there live the blind texts.
+            Celebrate your dream wedding in open gardens with beautiful views and perfect weather.
           </p>
           <p><a href="#" class="learn-more">Read more</a></p>
         </div>
@@ -55,10 +52,9 @@
       <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="400">
         <div class="box-feature mb-4">
           <span class="flaticon-house-2 mb-4 d-block-3"></span>
-          <h3 class="text-black mb-3 font-weight-bold">Top Rated Agent</h3>
+          <h3 class="text-black mb-3 font-weight-bold">Top Wedding Planners</h3>
           <p class="text-black-50">
-            Far far away, behind the word mountains, far from the countries
-            Vokalia and Consonantia, there live the blind texts.
+            Our expert planners will coordinate every detail to make your big day stress-free.
           </p>
           <p><a href="#" class="learn-more">Read more</a></p>
         </div>
@@ -66,12 +62,9 @@
       <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="500">
         <div class="box-feature mb-4">
           <span class="flaticon-building mb-4 d-block"></span>
-          <h3 class="text-black mb-3 font-weight-bold">
-            Property for Sale
-          </h3>
+          <h3 class="text-black mb-3 font-weight-bold">Luxury Banquets</h3>
           <p class="text-black-50">
-            Far far away, behind the word mountains, far from the countries
-            Vokalia and Consonantia, there live the blind texts.
+            Choose from our handpicked premium banquet halls with stunning interiors.
           </p>
           <p><a href="#" class="learn-more">Read more</a></p>
         </div>
@@ -79,10 +72,9 @@
       <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="600">
         <div class="box-feature mb-4">
           <span class="flaticon-house-3 mb-4 d-block-1"></span>
-          <h3 class="text-black mb-3 font-weight-bold">House for Sale</h3>
+          <h3 class="text-black mb-3 font-weight-bold">Catering & Décor</h3>
           <p class="text-black-50">
-            Far far away, behind the word mountains, far from the countries
-            Vokalia and Consonantia, there live the blind texts.
+            Custom catering and decoration packages to match your unique theme and taste.
           </p>
           <p><a href="#" class="learn-more">Read more</a></p>
         </div>
@@ -91,12 +83,9 @@
       <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">
         <div class="box-feature mb-4">
           <span class="flaticon-house-4 mb-4 d-block"></span>
-          <h3 class="text-black mb-3 font-weight-bold">
-            Quality Properties
-          </h3>
+          <h3 class="text-black mb-3 font-weight-bold">Destination Weddings</h3>
           <p class="text-black-50">
-            Far far away, behind the word mountains, far from the countries
-            Vokalia and Consonantia, there live the blind texts.
+            Plan your wedding in exotic locations with full travel and venue arrangements.
           </p>
           <p><a href="#" class="learn-more">Read more</a></p>
         </div>
@@ -104,10 +93,9 @@
       <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="400">
         <div class="box-feature mb-4">
           <span class="flaticon-building mb-4 d-block-3"></span>
-          <h3 class="text-black mb-3 font-weight-bold">Top Rated Agent</h3>
+          <h3 class="text-black mb-3 font-weight-bold">Pre-Wedding Shoots</h3>
           <p class="text-black-50">
-            Far far away, behind the word mountains, far from the countries
-            Vokalia and Consonantia, there live the blind texts.
+            Stunning photoshoots with creative backdrops and professional photographers.
           </p>
           <p><a href="#" class="learn-more">Read more</a></p>
         </div>
@@ -115,12 +103,9 @@
       <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="500">
         <div class="box-feature mb-4">
           <span class="flaticon-house mb-4 d-block"></span>
-          <h3 class="text-black mb-3 font-weight-bold">
-            Property for Sale
-          </h3>
+          <h3 class="text-black mb-3 font-weight-bold">Custom Packages</h3>
           <p class="text-black-50">
-            Far far away, behind the word mountains, far from the countries
-            Vokalia and Consonantia, there live the blind texts.
+            Choose from flexible and affordable wedding packages tailored to your needs.
           </p>
           <p><a href="#" class="learn-more">Read more</a></p>
         </div>
@@ -128,10 +113,9 @@
       <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="600">
         <div class="box-feature mb-4">
           <span class="flaticon-house-1 mb-4 d-block-1"></span>
-          <h3 class="text-black mb-3 font-weight-bold">House for Sale</h3>
+          <h3 class="text-black mb-3 font-weight-bold">24x7 Support</h3>
           <p class="text-black-50">
-            Far far away, behind the word mountains, far from the countries
-            Vokalia and Consonantia, there live the blind texts.
+            Our dedicated wedding assistant is available round-the-clock to assist you.
           </p>
           <p><a href="#" class="learn-more">Read more</a></p>
         </div>
@@ -139,6 +123,7 @@
     </div>
   </div>
 </div>
+
 
 <div class="section sec-testimonials">
   <div class="container">
@@ -167,7 +152,7 @@
             <img
               src="assets/images/person_1-min.jpg"
               alt="Image"
-              class="img-fluid rounded-circle w-25 mb-4" />
+              class="img-fluid1 rounded-circle w-25 mb-4" />
             <div class="rate">
               <span class="icon-star text-warning"></span>
               <span class="icon-star text-warning"></span>
@@ -193,7 +178,7 @@
             <img
               src="assets/images/person_2-min.jpg"
               alt="Image"
-              class="img-fluid rounded-circle w-25 mb-4" />
+              class="img-fluid1 rounded-circle w-25 mb-4" />
             <div class="rate">
               <span class="icon-star text-warning"></span>
               <span class="icon-star text-warning"></span>
@@ -219,7 +204,7 @@
             <img
               src="assets/images/person_3-min.jpg"
               alt="Image"
-              class="img-fluid rounded-circle w-25 mb-4" />
+              class="img-fluid1 rounded-circle w-25 mb-4" />
             <div class="rate">
               <span class="icon-star text-warning"></span>
               <span class="icon-star text-warning"></span>
@@ -245,7 +230,7 @@
             <img
               src="assets/images/person_4-min.jpg"
               alt="Image"
-              class="img-fluid rounded-circle w-25 mb-4" />
+              class="img-fluid1 rounded-circle w-25 mb-4" />
             <div class="rate">
               <span class="icon-star text-warning"></span>
               <span class="icon-star text-warning"></span>
